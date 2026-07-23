@@ -26,7 +26,8 @@ Rather than focusing on implementation, these proposals evaluate different proje
 .
 ├── README.md
 └── docs/
-    └── Project_Proposals.pdf
+    └── entregas/
+        └── 01_ideas_producto.md
 ```
 
 ## 🎯 Current Status
