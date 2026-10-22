@@ -27,13 +27,14 @@ Rather than focusing on implementation, these proposals evaluate different proje
 ├── README.md
 └── docs/
     └── entregas/
-        └── 01_ideas_producto.md
+        |── 01_ideas_producto.md
+        └── 02_datos_y_preparación.md
 ```
 
 ## 🎯 Current Status
 
 - [x] Project ideation
-- [ ] Proposal selection
+- [x] Proposal selection
 - [ ] Requirements definition
 - [ ] MVP development
 - [ ] Final project implementation
